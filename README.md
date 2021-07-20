@@ -1,2 +1,12 @@
 # Basic-Banking-System
-A Basic Banking System Implemented using HTML, CSS, JAVASCRIPT, PHP, and MySQL.
+Project developed during my Internship at The Sparks Foundation
+# Tech Stack
+Technologies used:- 
+
+Frontend:- HTML, CSS, javascript 
+
+Backend:- PHP
+
+Database:- MYSQL
+
+The Website is Hosted at 000webhost.
