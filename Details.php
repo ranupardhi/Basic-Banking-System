@@ -171,7 +171,7 @@
 
     <nav id="sideNav">
       <ul>
-        <li><a href="Index.html">HOME</a></li>
+        <li><a href="index.html">HOME</a></li>
         <li><a href="users.php">All CUSTOMERS</a></li>
         <li><a href="history.php">TRANSACTION HISTORY</a></li>
         <li><a href="users.php">TRANSFER MONEY</a></li>
