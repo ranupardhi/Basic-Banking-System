@@ -91,9 +91,9 @@
     <?php
     session_start();
     $server = "localhost";
-    $username = "root";
-    $password = "2000";
-    $conn = mysqli_connect($server, $username, $password, "ranu");
+    $username = "id17271099_root";
+    $password = "!3Ml|9v<#hduzk40";
+    $conn = mysqli_connect($server, $username, $password, "id17271099_ranu");
     if (!$conn) {
       die("Connection failed");
     }
@@ -142,7 +142,7 @@
         <select name="reciever" id="dropdown" class="textbox" required>
           <option>Select Recipient</option>
           <?php
-          $db = mysqli_connect("localhost", "root", "2000", "ranu");
+          $db = mysqli_connect("localhost", "id17271099_root", "!3Ml|9v<#hduzk40", "id17271099_ranu");
           $res = mysqli_query($db, "SELECT * FROM users WHERE name!='$user'");
           while ($row = mysqli_fetch_array($res)) {
             echo ("<option> " . "  " . $row['Name'] . "</option>");
