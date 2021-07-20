@@ -1,9 +1,9 @@
 <?php
 session_start();
 $server="localhost";
-$username="root";
-$password="2000";
-$con=mysqli_connect($server,$username,$password,"ranu");
+$username="id17271099_root";
+$password="!3Ml|9v<#hduzk40";
+$con=mysqli_connect($server,$username,$password,"id17271099_ranu");
 if(!$con){
     die("Connection failed");
 } 
