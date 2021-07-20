@@ -68,9 +68,9 @@ nav ul li a{
 <?php
 // Connecting to the Database
 $servername = "localhost";
-$username = "root";
-$password = "2000";
-$database = "ranu";
+$username = "id17271099_ranu";
+$password = "!3Ml|9v<#hduzk40";
+$database = "id17271099_root";
 
 // Create a connection
 $conn = mysqli_connect($servername, $username, $password, $database);
